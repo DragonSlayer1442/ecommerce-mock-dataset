@@ -585,18 +585,11 @@
       "reviews": 8000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Orange",
           "storage": "N/A",
           "price": 899,
           "availability": true,
-          "image": "assets/products/wearables/apple/apple-watch-ultra-3/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 919,
-          "availability": true,
-          "image": "assets/products/wearables/apple/apple-watch-ultra-3/silver.png"
+          "image": "assets/products/wearables/apple/apple-watch-ultra-3/orange.png"
         }
       ],
       "specs": {
@@ -618,18 +611,11 @@
       "reviews": 8000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Blue",
           "storage": "N/A",
           "price": 499,
           "availability": true,
-          "image": "assets/products/wearables/apple/apple-watch-series-11/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 519,
-          "availability": true,
-          "image": "assets/products/wearables/apple/apple-watch-series-11/silver.png"
+          "image": "assets/products/wearables/apple/apple-watch-series-11/blue.png"
         }
       ],
       "specs": {
@@ -651,18 +637,11 @@
       "reviews": 8000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Gray",
           "storage": "N/A",
           "price": 299,
           "availability": true,
-          "image": "assets/products/wearables/apple/apple-watch-se-3/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 319,
-          "availability": true,
-          "image": "assets/products/wearables/apple/apple-watch-se-3/silver.png"
+          "image": "assets/products/wearables/apple/apple-watch-se-3/gray.png"
         }
       ],
       "specs": {
@@ -684,18 +663,11 @@
       "reviews": 8000,
       "variants": [
         {
-          "color": "Black",
+          "color": "White",
           "storage": "N/A",
           "price": 279,
           "availability": true,
-          "image": "assets/products/wearables/apple/airpods-pro-3/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 299,
-          "availability": true,
-          "image": "assets/products/wearables/apple/airpods-pro-3/silver.png"
+          "image": "assets/products/wearables/apple/airpods-pro-3/white.png"
         }
       ],
       "specs": {
@@ -717,51 +689,11 @@
       "reviews": 8000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Blue",
           "storage": "N/A",
           "price": 549,
           "availability": true,
-          "image": "assets/products/wearables/apple/airpods-max-2/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 569,
-          "availability": true,
-          "image": "assets/products/wearables/apple/airpods-max-2/silver.png"
-        }
-      ],
-      "specs": {
-        "display": "AMOLED",
-        "chip": "Wearable chipset",
-        "battery": "Up to 7 days",
-        "camera": "N/A"
-      }
-    },
-    {
-      "id": "galaxy-watch-8-pro",
-      "brand": "Samsung",
-      "category": "wearables",
-      "name": "Galaxy Watch 8 Pro",
-      "description": "Galaxy Watch 8 Pro wearable device for health tracking and smart connectivity.",
-      "priceFrom": 399,
-      "currency": "EUR",
-      "rating": 4.4,
-      "reviews": 8000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "N/A",
-          "price": 399,
-          "availability": true,
-          "image": "assets/products/wearables/samsung/galaxy-watch-8-pro/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 419,
-          "availability": true,
-          "image": "assets/products/wearables/samsung/galaxy-watch-8-pro/silver.png"
+          "image": "assets/products/wearables/apple/airpods-max-2/blue.png"
         }
       ],
       "specs": {
@@ -788,13 +720,32 @@
           "price": 299,
           "availability": true,
           "image": "assets/products/wearables/samsung/galaxy-watch-8/black.png"
-        },
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "galaxy-watch-ultra",
+      "brand": "Samsung",
+      "category": "wearables",
+      "name": "Galaxy Watch Ultra",
+      "description": "Galaxy Watch Ultra wearable device for health tracking and smart connectivity.",
+      "priceFrom": 299,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
         {
-          "color": "Silver",
+          "color": "Orange",
           "storage": "N/A",
-          "price": 319,
+          "price": 299,
           "availability": true,
-          "image": "assets/products/wearables/samsung/galaxy-watch-8/silver.png"
+          "image": "assets/products/wearables/samsung/galaxy-watch-ultra/orange.png"
         }
       ],
       "specs": {
@@ -816,18 +767,11 @@
       "reviews": 8000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Gray",
           "storage": "N/A",
           "price": 229,
           "availability": true,
-          "image": "assets/products/wearables/samsung/galaxy-buds-4-pro/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 249,
-          "availability": true,
-          "image": "assets/products/wearables/samsung/galaxy-buds-4-pro/silver.png"
+          "image": "assets/products/wearables/samsung/galaxy-buds-4-pro/gray.png"
         }
       ],
       "specs": {
@@ -838,77 +782,11 @@
       }
     },
     {
-      "id": "galaxy-buds-4",
-      "brand": "Samsung",
-      "category": "wearables",
-      "name": "Galaxy Buds 4",
-      "description": "Galaxy Buds 4 wearable device for health tracking and smart connectivity.",
-      "priceFrom": 149,
-      "currency": "EUR",
-      "rating": 4.4,
-      "reviews": 8000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "N/A",
-          "price": 149,
-          "availability": true,
-          "image": "assets/products/wearables/samsung/galaxy-buds-4/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 169,
-          "availability": true,
-          "image": "assets/products/wearables/samsung/galaxy-buds-4/silver.png"
-        }
-      ],
-      "specs": {
-        "display": "AMOLED",
-        "chip": "Wearable chipset",
-        "battery": "Up to 7 days",
-        "camera": "N/A"
-      }
-    },
-    {
-      "id": "xiaomi-watch-s4",
+      "id": "xiaomi-buds-6-pro",
       "brand": "Xiaomi",
       "category": "wearables",
-      "name": "Xiaomi Watch S4",
-      "description": "Xiaomi Watch S4 wearable device for health tracking and smart connectivity.",
-      "priceFrom": 199,
-      "currency": "EUR",
-      "rating": 4.4,
-      "reviews": 8000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "N/A",
-          "price": 199,
-          "availability": true,
-          "image": "assets/products/wearables/xiaomi/xiaomi-watch-s4/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 219,
-          "availability": true,
-          "image": "assets/products/wearables/xiaomi/xiaomi-watch-s4/silver.png"
-        }
-      ],
-      "specs": {
-        "display": "AMOLED",
-        "chip": "Wearable chipset",
-        "battery": "Up to 7 days",
-        "camera": "N/A"
-      }
-    },
-    {
-      "id": "xiaomi-smart-band-9-pro",
-      "brand": "Xiaomi",
-      "category": "wearables",
-      "name": "Smart Band 9 Pro",
-      "description": "Smart Band 9 Pro wearable device for health tracking and smart connectivity.",
+      "name": "Xiaomi Buds 6 Pro",
+      "description": "Xiaomi Buds 6 Pro wearable device for health tracking and smart connectivity.",
       "priceFrom": 99,
       "currency": "EUR",
       "rating": 4.4,
@@ -919,14 +797,7 @@
           "storage": "N/A",
           "price": 99,
           "availability": true,
-          "image": "assets/products/wearables/xiaomi/xiaomi-smart-band-9-pro/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 119,
-          "availability": true,
-          "image": "assets/products/wearables/xiaomi/xiaomi-smart-band-9-pro/silver.png"
+          "image": "assets/products/wearables/xiaomi/xiaomi-buds-6-pro/black.png"
         }
       ],
       "specs": {
@@ -937,11 +808,37 @@
       }
     },
     {
-      "id": "xiaomi-buds-6",
+      "id": "xiaomi-buds-5-pro",
       "brand": "Xiaomi",
       "category": "wearables",
-      "name": "Xiaomi Buds 6",
-      "description": "Xiaomi Buds 6 wearable device for health tracking and smart connectivity.",
+      "name": "Xiaomi Buds 5 Pro",
+      "description": "Xiaomi Buds 5 Pro wearable device for health tracking and smart connectivity.",
+      "priceFrom": 99,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 99,
+          "availability": true,
+          "image": "assets/products/wearables/xiaomi/xiaomi-buds-5-pro/black.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "redmi-watch-5",
+      "brand": "Xiaomi",
+      "category": "wearables",
+      "name": "Redmi Watch 5",
+      "description": "Redmi Watch 5 wearable device for health tracking and smart connectivity.",
       "priceFrom": 129,
       "currency": "EUR",
       "rating": 4.4,
@@ -952,14 +849,7 @@
           "storage": "N/A",
           "price": 129,
           "availability": true,
-          "image": "assets/products/wearables/xiaomi/xiaomi-buds-6/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 149,
-          "availability": true,
-          "image": "assets/products/wearables/xiaomi/xiaomi-buds-6/silver.png"
+          "image": "assets/products/wearables/xiaomi/redmi-watch-5/black.png"
         }
       ],
       "specs": {
@@ -970,161 +860,22 @@
       }
     },
     {
-      "id": "xiaomi-openwear-stereo",
-      "brand": "Xiaomi",
-      "category": "wearables",
-      "name": "Xiaomi OpenWear Stereo",
-      "description": "Xiaomi OpenWear Stereo wearable device for health tracking and smart connectivity.",
-      "priceFrom": 149,
-      "currency": "EUR",
-      "rating": 4.4,
-      "reviews": 8000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "N/A",
-          "price": 149,
-          "availability": true,
-          "image": "assets/products/wearables/xiaomi/xiaomi-openwear-stereo/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 169,
-          "availability": true,
-          "image": "assets/products/wearables/xiaomi/xiaomi-openwear-stereo/silver.png"
-        }
-      ],
-      "specs": {
-        "display": "AMOLED",
-        "chip": "Wearable chipset",
-        "battery": "Up to 7 days",
-        "camera": "N/A"
-      }
-    },
-    {
-      "id": "tcl-moveaudio-nx",
+      "id": "tcl-moveaudio",
       "brand": "TCL",
       "category": "wearables",
-      "name": "TCL MoveAudio NX",
-      "description": "TCL MoveAudio NX wearable device for health tracking and smart connectivity.",
+      "name": "TCL MoveAudio",
+      "description": "TCL MoveAudio wearable device for health tracking and smart connectivity.",
       "priceFrom": 89,
       "currency": "EUR",
       "rating": 4.4,
       "reviews": 8000,
       "variants": [
         {
-          "color": "Black",
+          "color": "White",
           "storage": "N/A",
           "price": 89,
           "availability": true,
-          "image": "assets/products/wearables/tcl/tcl-moveaudio-nx/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 109,
-          "availability": true,
-          "image": "assets/products/wearables/tcl/tcl-moveaudio-nx/silver.png"
-        }
-      ],
-      "specs": {
-        "display": "AMOLED",
-        "chip": "Wearable chipset",
-        "battery": "Up to 7 days",
-        "camera": "N/A"
-      }
-    },
-    {
-      "id": "tcl-watch-pro-3",
-      "brand": "TCL",
-      "category": "wearables",
-      "name": "TCL Watch Pro 3",
-      "description": "TCL Watch Pro 3 wearable device for health tracking and smart connectivity.",
-      "priceFrom": 179,
-      "currency": "EUR",
-      "rating": 4.4,
-      "reviews": 8000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "N/A",
-          "price": 179,
-          "availability": true,
-          "image": "assets/products/wearables/tcl/tcl-watch-pro-3/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 199,
-          "availability": true,
-          "image": "assets/products/wearables/tcl/tcl-watch-pro-3/silver.png"
-        }
-      ],
-      "specs": {
-        "display": "AMOLED",
-        "chip": "Wearable chipset",
-        "battery": "Up to 7 days",
-        "camera": "N/A"
-      }
-    },
-    {
-      "id": "tcl-nxtwear-s",
-      "brand": "TCL",
-      "category": "wearables",
-      "name": "TCL Nxtwear S",
-      "description": "TCL Nxtwear S wearable device for health tracking and smart connectivity.",
-      "priceFrom": 249,
-      "currency": "EUR",
-      "rating": 4.4,
-      "reviews": 8000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "N/A",
-          "price": 249,
-          "availability": true,
-          "image": "assets/products/wearables/tcl/tcl-nxtwear-s/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 269,
-          "availability": true,
-          "image": "assets/products/wearables/tcl/tcl-nxtwear-s/silver.png"
-        }
-      ],
-      "specs": {
-        "display": "AMOLED",
-        "chip": "Wearable chipset",
-        "battery": "Up to 7 days",
-        "camera": "N/A"
-      }
-    },
-    {
-      "id": "tcl-smart-band-2",
-      "brand": "TCL",
-      "category": "wearables",
-      "name": "TCL Smart Band 2",
-      "description": "TCL Smart Band 2 wearable device for health tracking and smart connectivity.",
-      "priceFrom": 59,
-      "currency": "EUR",
-      "rating": 4.4,
-      "reviews": 8000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "N/A",
-          "price": 59,
-          "availability": true,
-          "image": "assets/products/wearables/tcl/tcl-smart-band-2/black.png"
-        },
-        {
-          "color": "Silver",
-          "storage": "N/A",
-          "price": 79,
-          "availability": true,
-          "image": "assets/products/wearables/tcl/tcl-smart-band-2/silver.png"
+          "image": "assets/products/wearables/tcl/tcl-moveaudio/white.png"
         }
       ],
       "specs": {
@@ -1161,11 +912,11 @@
       }
     },
     {
-      "id": "dji-air-4",
+      "id": "dji-neo",
       "brand": "DJI",
       "category": "drones",
-      "name": "DJI Air 4",
-      "description": "DJI Air 4 professional drone for cinematic aerial capture.",
+      "name": "DJI Neo",
+      "description": "DJI Neo professional drone for cinematic aerial capture.",
       "priceFrom": 1999,
       "currency": "EUR",
       "rating": 4.8,
