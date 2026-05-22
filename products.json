@@ -12,11 +12,11 @@
       "reviews": 12000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Orange",
           "storage": "128GB",
           "price": 1299,
           "availability": true,
-          "image": "assets/products/phones/apple/iphone-17-pro-max/black.png"
+          "image": "assets/products/phones/apple/iphone-17-pro-max/orange.png"
         },
         {
           "color": "Blue",
@@ -45,11 +45,11 @@
       "reviews": 12000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Orange",
           "storage": "128GB",
           "price": 1199,
           "availability": true,
-          "image": "assets/products/phones/apple/iphone-17-pro/black.png"
+          "image": "assets/products/phones/apple/iphone-17-pro/orange.png"
         },
         {
           "color": "Blue",
@@ -78,18 +78,18 @@
       "reviews": 12000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Green",
           "storage": "128GB",
           "price": 999,
           "availability": true,
-          "image": "assets/products/phones/apple/iphone-17/black.png"
+          "image": "assets/products/phones/apple/iphone-17/green.png"
         },
         {
-          "color": "Blue",
+          "color": "Rose",
           "storage": "256GB",
           "price": 1099,
           "availability": true,
-          "image": "assets/products/phones/apple/iphone-17/blue.png"
+          "image": "assets/products/phones/apple/iphone-17/rose.jpg"
         }
       ],
       "specs": {
@@ -115,14 +115,14 @@
           "storage": "128GB",
           "price": 1199,
           "availability": true,
-          "image": "assets/products/phones/apple/iphone-16-pro-max/black.png"
+          "image": "assets/products/phones/apple/iphone-16-pro-max/black.jpg"
         },
         {
-          "color": "Blue",
+          "color": "White",
           "storage": "256GB",
           "price": 1299,
           "availability": true,
-          "image": "assets/products/phones/apple/iphone-16-pro-max/blue.png"
+          "image": "assets/products/phones/apple/iphone-16-pro-max/white.jpg"
         }
       ],
       "specs": {
@@ -144,51 +144,11 @@
       "reviews": 12000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Rose",
           "storage": "128GB",
           "price": 899,
           "availability": true,
-          "image": "assets/products/phones/apple/iphone-16/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 999,
-          "availability": true,
-          "image": "assets/products/phones/apple/iphone-16/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "iphone-se-4",
-      "brand": "Apple",
-      "category": "phones",
-      "name": "iPhone SE 4",
-      "description": "iPhone SE 4 flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 599,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 599,
-          "availability": true,
-          "image": "assets/products/phones/apple/iphone-se-4/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 699,
-          "availability": true,
-          "image": "assets/products/phones/apple/iphone-se-4/blue.png"
+          "image": "assets/products/phones/apple/iphone-16/rose.jpg"
         }
       ],
       "specs": {
@@ -214,14 +174,14 @@
           "storage": "128GB",
           "price": 1299,
           "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-s25-ultra/black.png"
+          "image": "assets/products/phones/samsung/galaxy-s25-ultra/black.jpg"
         },
         {
-          "color": "Blue",
+          "color": "Silver",
           "storage": "256GB",
           "price": 1399,
           "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-s25-ultra/blue.png"
+          "image": "assets/products/phones/samsung/galaxy-s25-ultra/silver.jpg"
         }
       ],
       "specs": {
