@@ -1,0 +1,1654 @@
+{
+  "products": [
+    {
+      "id": "iphone-17-pro-max",
+      "brand": "Apple",
+      "category": "phones",
+      "name": "iPhone 17 Pro Max",
+      "description": "iPhone 17 Pro Max flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1299,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1299,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-17-pro-max/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1399,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-17-pro-max/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "iphone-17-pro",
+      "brand": "Apple",
+      "category": "phones",
+      "name": "iPhone 17 Pro",
+      "description": "iPhone 17 Pro flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1199,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1199,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-17-pro/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1299,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-17-pro/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "iphone-17",
+      "brand": "Apple",
+      "category": "phones",
+      "name": "iPhone 17",
+      "description": "iPhone 17 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 999,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 999,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-17/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1099,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-17/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "iphone-16-pro-max",
+      "brand": "Apple",
+      "category": "phones",
+      "name": "iPhone 16 Pro Max",
+      "description": "iPhone 16 Pro Max flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1199,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1199,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-16-pro-max/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1299,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-16-pro-max/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "iphone-16",
+      "brand": "Apple",
+      "category": "phones",
+      "name": "iPhone 16",
+      "description": "iPhone 16 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 899,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 899,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-16/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 999,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-16/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "iphone-se-4",
+      "brand": "Apple",
+      "category": "phones",
+      "name": "iPhone SE 4",
+      "description": "iPhone SE 4 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 599,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 599,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-se-4/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 699,
+          "availability": true,
+          "image": "assets/products/phones/apple/iphone-se-4/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "galaxy-s25-ultra",
+      "brand": "Samsung",
+      "category": "phones",
+      "name": "Galaxy S25 Ultra",
+      "description": "Galaxy S25 Ultra flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1299,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1299,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-s25-ultra/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1399,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-s25-ultra/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "galaxy-s25-plus",
+      "brand": "Samsung",
+      "category": "phones",
+      "name": "Galaxy S25 Plus",
+      "description": "Galaxy S25 Plus flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1099,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1099,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-s25-plus/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1199,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-s25-plus/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "galaxy-s25",
+      "brand": "Samsung",
+      "category": "phones",
+      "name": "Galaxy S25",
+      "description": "Galaxy S25 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 999,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 999,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-s25/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1099,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-s25/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "galaxy-z-fold-7",
+      "brand": "Samsung",
+      "category": "phones",
+      "name": "Galaxy Z Fold 7",
+      "description": "Galaxy Z Fold 7 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1799,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1799,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-z-fold-7/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1899,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-z-fold-7/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "galaxy-z-flip-7",
+      "brand": "Samsung",
+      "category": "phones",
+      "name": "Galaxy Z Flip 7",
+      "description": "Galaxy Z Flip 7 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1099,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1099,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-z-flip-7/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1199,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-z-flip-7/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "galaxy-a86-5g",
+      "brand": "Samsung",
+      "category": "phones",
+      "name": "Galaxy A86 5G",
+      "description": "Galaxy A86 5G flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 499,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 499,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-a86-5g/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 599,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-a86-5g/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "galaxy-s25-fe",
+      "brand": "Samsung",
+      "category": "phones",
+      "name": "Galaxy S25 FE",
+      "description": "Galaxy S25 FE flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 799,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 799,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-s25-fe/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 899,
+          "availability": true,
+          "image": "assets/products/phones/samsung/galaxy-s25-fe/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "xiaomi-15-ultra",
+      "brand": "Xiaomi",
+      "category": "phones",
+      "name": "Xiaomi 15 Ultra",
+      "description": "Xiaomi 15 Ultra flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1199,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1199,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/xiaomi-15-ultra/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1299,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/xiaomi-15-ultra/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "xiaomi-15",
+      "brand": "Xiaomi",
+      "category": "phones",
+      "name": "Xiaomi 15",
+      "description": "Xiaomi 15 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 999,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 999,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/xiaomi-15/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1099,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/xiaomi-15/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "redmi-note-14-pro",
+      "brand": "Xiaomi",
+      "category": "phones",
+      "name": "Redmi Note 14 Pro",
+      "description": "Redmi Note 14 Pro flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 399,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 399,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/redmi-note-14-pro/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 499,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/redmi-note-14-pro/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "poco-f7-pro",
+      "brand": "Xiaomi",
+      "category": "phones",
+      "name": "POCO F7 Pro",
+      "description": "POCO F7 Pro flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 449,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 449,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/poco-f7-pro/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 549,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/poco-f7-pro/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "xiaomi-mix-flip",
+      "brand": "Xiaomi",
+      "category": "phones",
+      "name": "Xiaomi Mix Flip",
+      "description": "Xiaomi Mix Flip flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 999,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 999,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/xiaomi-mix-flip/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1099,
+          "availability": true,
+          "image": "assets/products/phones/xiaomi/xiaomi-mix-flip/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "pixel-10-pro-xl",
+      "brand": "Google",
+      "category": "phones",
+      "name": "Pixel 10 Pro XL",
+      "description": "Pixel 10 Pro XL flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1199,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1199,
+          "availability": true,
+          "image": "assets/products/phones/google/pixel-10-pro-xl/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1299,
+          "availability": true,
+          "image": "assets/products/phones/google/pixel-10-pro-xl/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "pixel-10-pro",
+      "brand": "Google",
+      "category": "phones",
+      "name": "Pixel 10 Pro",
+      "description": "Pixel 10 Pro flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1099,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1099,
+          "availability": true,
+          "image": "assets/products/phones/google/pixel-10-pro/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1199,
+          "availability": true,
+          "image": "assets/products/phones/google/pixel-10-pro/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "pixel-10",
+      "brand": "Google",
+      "category": "phones",
+      "name": "Pixel 10",
+      "description": "Pixel 10 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 899,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 899,
+          "availability": true,
+          "image": "assets/products/phones/google/pixel-10/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 999,
+          "availability": true,
+          "image": "assets/products/phones/google/pixel-10/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "pixel-fold-2",
+      "brand": "Google",
+      "category": "phones",
+      "name": "Pixel Fold 2",
+      "description": "Pixel Fold 2 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 1799,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 1799,
+          "availability": true,
+          "image": "assets/products/phones/google/pixel-fold-2/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1899,
+          "availability": true,
+          "image": "assets/products/phones/google/pixel-fold-2/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "nothing-phone-3",
+      "brand": "Nothing",
+      "category": "phones",
+      "name": "Nothing Phone 3",
+      "description": "Nothing Phone 3 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 699,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 699,
+          "availability": true,
+          "image": "assets/products/phones/nothing/nothing-phone-3/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 799,
+          "availability": true,
+          "image": "assets/products/phones/nothing/nothing-phone-3/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "nothing-phone-3a",
+      "brand": "Nothing",
+      "category": "phones",
+      "name": "Nothing Phone 3a",
+      "description": "Nothing Phone 3a flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 399,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 399,
+          "availability": true,
+          "image": "assets/products/phones/nothing/nothing-phone-3a/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 499,
+          "availability": true,
+          "image": "assets/products/phones/nothing/nothing-phone-3a/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "nothing-phone-2",
+      "brand": "Nothing",
+      "category": "phones",
+      "name": "Nothing Phone 2",
+      "description": "Nothing Phone 2 flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 599,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 599,
+          "availability": true,
+          "image": "assets/products/phones/nothing/nothing-phone-2/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 699,
+          "availability": true,
+          "image": "assets/products/phones/nothing/nothing-phone-2/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "tcl-60-ultra",
+      "brand": "TCL",
+      "category": "phones",
+      "name": "TCL 60 Ultra",
+      "description": "TCL 60 Ultra flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 499,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 499,
+          "availability": true,
+          "image": "assets/products/phones/tcl/tcl-60-ultra/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 599,
+          "availability": true,
+          "image": "assets/products/phones/tcl/tcl-60-ultra/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "tcl-60-5g",
+      "brand": "TCL",
+      "category": "phones",
+      "name": "TCL 60 5G",
+      "description": "TCL 60 5G flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 399,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 399,
+          "availability": true,
+          "image": "assets/products/phones/tcl/tcl-60-5g/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 499,
+          "availability": true,
+          "image": "assets/products/phones/tcl/tcl-60-5g/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "tcl-nxtpaper-pro",
+      "brand": "TCL",
+      "category": "phones",
+      "name": "TCL NXTPAPER Pro",
+      "description": "TCL NXTPAPER Pro flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 449,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 449,
+          "availability": true,
+          "image": "assets/products/phones/tcl/tcl-nxtpaper-pro/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 549,
+          "availability": true,
+          "image": "assets/products/phones/tcl/tcl-nxtpaper-pro/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "honor-magic7-pro",
+      "brand": "Honor",
+      "category": "phones",
+      "name": "Honor Magic7 Pro",
+      "description": "Honor Magic7 Pro flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 999,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 999,
+          "availability": true,
+          "image": "assets/products/phones/honor/honor-magic7-pro/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 1099,
+          "availability": true,
+          "image": "assets/products/phones/honor/honor-magic7-pro/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "honor-200-pro",
+      "brand": "Honor",
+      "category": "phones",
+      "name": "Honor 200 Pro",
+      "description": "Honor 200 Pro flagship smartphone with premium performance and advanced camera system.",
+      "priceFrom": 699,
+      "currency": "EUR",
+      "rating": 4.5,
+      "reviews": 12000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "128GB",
+          "price": 699,
+          "availability": true,
+          "image": "assets/products/phones/honor/honor-200-pro/black.png"
+        },
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "price": 799,
+          "availability": true,
+          "image": "assets/products/phones/honor/honor-200-pro/blue.png"
+        }
+      ],
+      "specs": {
+        "display": "OLED 120Hz",
+        "chip": "Latest Gen Processor",
+        "battery": "4500mAh",
+        "camera": "Triple Camera System"
+      }
+    },
+    {
+      "id": "apple-watch-ultra-3",
+      "brand": "Apple",
+      "category": "wearables",
+      "name": "Apple Watch Ultra 3",
+      "description": "Apple Watch Ultra 3 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 899,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 899,
+          "availability": true,
+          "image": "assets/products/wearables/apple/apple-watch-ultra-3/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 919,
+          "availability": true,
+          "image": "assets/products/wearables/apple/apple-watch-ultra-3/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "apple-watch-series-11",
+      "brand": "Apple",
+      "category": "wearables",
+      "name": "Apple Watch Series 11",
+      "description": "Apple Watch Series 11 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 499,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 499,
+          "availability": true,
+          "image": "assets/products/wearables/apple/apple-watch-series-11/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 519,
+          "availability": true,
+          "image": "assets/products/wearables/apple/apple-watch-series-11/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "apple-watch-se-3",
+      "brand": "Apple",
+      "category": "wearables",
+      "name": "Apple Watch SE 3",
+      "description": "Apple Watch SE 3 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 299,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 299,
+          "availability": true,
+          "image": "assets/products/wearables/apple/apple-watch-se-3/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 319,
+          "availability": true,
+          "image": "assets/products/wearables/apple/apple-watch-se-3/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "airpods-pro-3",
+      "brand": "Apple",
+      "category": "wearables",
+      "name": "AirPods Pro 3",
+      "description": "AirPods Pro 3 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 279,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 279,
+          "availability": true,
+          "image": "assets/products/wearables/apple/airpods-pro-3/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 299,
+          "availability": true,
+          "image": "assets/products/wearables/apple/airpods-pro-3/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "airpods-max-2",
+      "brand": "Apple",
+      "category": "wearables",
+      "name": "AirPods Max 2",
+      "description": "AirPods Max 2 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 549,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 549,
+          "availability": true,
+          "image": "assets/products/wearables/apple/airpods-max-2/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 569,
+          "availability": true,
+          "image": "assets/products/wearables/apple/airpods-max-2/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "galaxy-watch-8-pro",
+      "brand": "Samsung",
+      "category": "wearables",
+      "name": "Galaxy Watch 8 Pro",
+      "description": "Galaxy Watch 8 Pro wearable device for health tracking and smart connectivity.",
+      "priceFrom": 399,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 399,
+          "availability": true,
+          "image": "assets/products/wearables/samsung/galaxy-watch-8-pro/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 419,
+          "availability": true,
+          "image": "assets/products/wearables/samsung/galaxy-watch-8-pro/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "galaxy-watch-8",
+      "brand": "Samsung",
+      "category": "wearables",
+      "name": "Galaxy Watch 8",
+      "description": "Galaxy Watch 8 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 299,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 299,
+          "availability": true,
+          "image": "assets/products/wearables/samsung/galaxy-watch-8/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 319,
+          "availability": true,
+          "image": "assets/products/wearables/samsung/galaxy-watch-8/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "galaxy-buds-4-pro",
+      "brand": "Samsung",
+      "category": "wearables",
+      "name": "Galaxy Buds 4 Pro",
+      "description": "Galaxy Buds 4 Pro wearable device for health tracking and smart connectivity.",
+      "priceFrom": 229,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 229,
+          "availability": true,
+          "image": "assets/products/wearables/samsung/galaxy-buds-4-pro/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 249,
+          "availability": true,
+          "image": "assets/products/wearables/samsung/galaxy-buds-4-pro/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "galaxy-buds-4",
+      "brand": "Samsung",
+      "category": "wearables",
+      "name": "Galaxy Buds 4",
+      "description": "Galaxy Buds 4 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 149,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 149,
+          "availability": true,
+          "image": "assets/products/wearables/samsung/galaxy-buds-4/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 169,
+          "availability": true,
+          "image": "assets/products/wearables/samsung/galaxy-buds-4/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "xiaomi-watch-s4",
+      "brand": "Xiaomi",
+      "category": "wearables",
+      "name": "Xiaomi Watch S4",
+      "description": "Xiaomi Watch S4 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 199,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 199,
+          "availability": true,
+          "image": "assets/products/wearables/xiaomi/xiaomi-watch-s4/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 219,
+          "availability": true,
+          "image": "assets/products/wearables/xiaomi/xiaomi-watch-s4/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "xiaomi-smart-band-9-pro",
+      "brand": "Xiaomi",
+      "category": "wearables",
+      "name": "Smart Band 9 Pro",
+      "description": "Smart Band 9 Pro wearable device for health tracking and smart connectivity.",
+      "priceFrom": 99,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 99,
+          "availability": true,
+          "image": "assets/products/wearables/xiaomi/xiaomi-smart-band-9-pro/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 119,
+          "availability": true,
+          "image": "assets/products/wearables/xiaomi/xiaomi-smart-band-9-pro/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "xiaomi-buds-6",
+      "brand": "Xiaomi",
+      "category": "wearables",
+      "name": "Xiaomi Buds 6",
+      "description": "Xiaomi Buds 6 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 129,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 129,
+          "availability": true,
+          "image": "assets/products/wearables/xiaomi/xiaomi-buds-6/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 149,
+          "availability": true,
+          "image": "assets/products/wearables/xiaomi/xiaomi-buds-6/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "xiaomi-openwear-stereo",
+      "brand": "Xiaomi",
+      "category": "wearables",
+      "name": "Xiaomi OpenWear Stereo",
+      "description": "Xiaomi OpenWear Stereo wearable device for health tracking and smart connectivity.",
+      "priceFrom": 149,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 149,
+          "availability": true,
+          "image": "assets/products/wearables/xiaomi/xiaomi-openwear-stereo/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 169,
+          "availability": true,
+          "image": "assets/products/wearables/xiaomi/xiaomi-openwear-stereo/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "tcl-moveaudio-nx",
+      "brand": "TCL",
+      "category": "wearables",
+      "name": "TCL MoveAudio NX",
+      "description": "TCL MoveAudio NX wearable device for health tracking and smart connectivity.",
+      "priceFrom": 89,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 89,
+          "availability": true,
+          "image": "assets/products/wearables/tcl/tcl-moveaudio-nx/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 109,
+          "availability": true,
+          "image": "assets/products/wearables/tcl/tcl-moveaudio-nx/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "tcl-watch-pro-3",
+      "brand": "TCL",
+      "category": "wearables",
+      "name": "TCL Watch Pro 3",
+      "description": "TCL Watch Pro 3 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 179,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 179,
+          "availability": true,
+          "image": "assets/products/wearables/tcl/tcl-watch-pro-3/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 199,
+          "availability": true,
+          "image": "assets/products/wearables/tcl/tcl-watch-pro-3/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "tcl-nxtwear-s",
+      "brand": "TCL",
+      "category": "wearables",
+      "name": "TCL Nxtwear S",
+      "description": "TCL Nxtwear S wearable device for health tracking and smart connectivity.",
+      "priceFrom": 249,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 249,
+          "availability": true,
+          "image": "assets/products/wearables/tcl/tcl-nxtwear-s/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 269,
+          "availability": true,
+          "image": "assets/products/wearables/tcl/tcl-nxtwear-s/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "tcl-smart-band-2",
+      "brand": "TCL",
+      "category": "wearables",
+      "name": "TCL Smart Band 2",
+      "description": "TCL Smart Band 2 wearable device for health tracking and smart connectivity.",
+      "priceFrom": 59,
+      "currency": "EUR",
+      "rating": 4.4,
+      "reviews": 8000,
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 59,
+          "availability": true,
+          "image": "assets/products/wearables/tcl/tcl-smart-band-2/black.png"
+        },
+        {
+          "color": "Silver",
+          "storage": "N/A",
+          "price": 79,
+          "availability": true,
+          "image": "assets/products/wearables/tcl/tcl-smart-band-2/silver.png"
+        }
+      ],
+      "specs": {
+        "display": "AMOLED",
+        "chip": "Wearable chipset",
+        "battery": "Up to 7 days",
+        "camera": "N/A"
+      }
+    },
+    {
+      "id": "dji-mavic-4-pro",
+      "brand": "DJI",
+      "category": "drones",
+      "name": "DJI Mavic 4 Pro",
+      "description": "DJI Mavic 4 Pro professional drone for cinematic aerial capture.",
+      "priceFrom": 1999,
+      "currency": "EUR",
+      "rating": 4.8,
+      "reviews": 15000,
+      "variants": [
+        {
+          "color": "Gray",
+          "storage": "N/A",
+          "price": 1999,
+          "availability": true,
+          "image": "assets/products/drones/dji/dji-mavic-4-pro/gray.png"
+        },
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 2049,
+          "availability": true,
+          "image": "assets/products/drones/dji/dji-mavic-4-pro/black.png"
+        }
+      ],
+      "specs": {
+        "display": "Controller App",
+        "chip": "Flight AI Processor",
+        "battery": "45 min flight",
+        "camera": "4K stabilized camera"
+      }
+    },
+    {
+      "id": "dji-mini-5-pro",
+      "brand": "DJI",
+      "category": "drones",
+      "name": "DJI Mini 5 Pro",
+      "description": "DJI Mini 5 Pro professional drone for cinematic aerial capture.",
+      "priceFrom": 999,
+      "currency": "EUR",
+      "rating": 4.8,
+      "reviews": 15000,
+      "variants": [
+        {
+          "color": "Gray",
+          "storage": "N/A",
+          "price": 999,
+          "availability": true,
+          "image": "assets/products/drones/dji/dji-mini-5-pro/gray.png"
+        },
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 1049,
+          "availability": true,
+          "image": "assets/products/drones/dji/dji-mini-5-pro/black.png"
+        }
+      ],
+      "specs": {
+        "display": "Controller App",
+        "chip": "Flight AI Processor",
+        "battery": "45 min flight",
+        "camera": "4K stabilized camera"
+      }
+    },
+    {
+      "id": "dji-avata-3",
+      "brand": "DJI",
+      "category": "drones",
+      "name": "DJI Avata 3",
+      "description": "DJI Avata 3 professional drone for cinematic aerial capture.",
+      "priceFrom": 1199,
+      "currency": "EUR",
+      "rating": 4.8,
+      "reviews": 15000,
+      "variants": [
+        {
+          "color": "Gray",
+          "storage": "N/A",
+          "price": 1199,
+          "availability": true,
+          "image": "assets/products/drones/dji/dji-avata-3/gray.png"
+        },
+        {
+          "color": "Black",
+          "storage": "N/A",
+          "price": 1249,
+          "availability": true,
+          "image": "assets/products/drones/dji/dji-avata-3/black.png"
+        }
+      ],
+      "specs": {
+        "display": "Controller App",
+        "chip": "Flight AI Processor",
+        "battery": "45 min flight",
+        "camera": "4K stabilized camera"
+      }
+    }
+  ]
+}
