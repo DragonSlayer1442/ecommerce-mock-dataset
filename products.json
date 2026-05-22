@@ -207,7 +207,7 @@
           "storage": "128GB",
           "price": 1099,
           "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-s25-plus/black.png"
+          "image": "assets/products/phones/samsung/galaxy-s25-plus/black.jpg"
         },
         {
           "color": "Blue",
@@ -240,7 +240,7 @@
           "storage": "128GB",
           "price": 999,
           "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-s25/black.png"
+          "image": "assets/products/phones/samsung/galaxy-s25/black.jpg"
         },
         {
           "color": "Blue",
@@ -273,14 +273,14 @@
           "storage": "128GB",
           "price": 1799,
           "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-z-fold-7/black.png"
+          "image": "assets/products/phones/samsung/galaxy-z-fold-7/black.jpg"
         },
         {
           "color": "Blue",
           "storage": "256GB",
           "price": 1899,
           "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-z-fold-7/blue.png"
+          "image": "assets/products/phones/samsung/galaxy-z-fold-7/blue.jpg"
         }
       ],
       "specs": {
@@ -324,72 +324,6 @@
       }
     },
     {
-      "id": "galaxy-a86-5g",
-      "brand": "Samsung",
-      "category": "phones",
-      "name": "Galaxy A86 5G",
-      "description": "Galaxy A86 5G flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 499,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 499,
-          "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-a86-5g/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 599,
-          "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-a86-5g/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "galaxy-s25-fe",
-      "brand": "Samsung",
-      "category": "phones",
-      "name": "Galaxy S25 FE",
-      "description": "Galaxy S25 FE flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 799,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 799,
-          "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-s25-fe/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 899,
-          "availability": true,
-          "image": "assets/products/phones/samsung/galaxy-s25-fe/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
       "id": "xiaomi-15-ultra",
       "brand": "Xiaomi",
       "category": "phones",
@@ -408,11 +342,11 @@
           "image": "assets/products/phones/xiaomi/xiaomi-15-ultra/black.png"
         },
         {
-          "color": "Blue",
+          "color": "White",
           "storage": "256GB",
           "price": 1299,
           "availability": true,
-          "image": "assets/products/phones/xiaomi/xiaomi-15-ultra/blue.png"
+          "image": "assets/products/phones/xiaomi/xiaomi-15-ultra/white.png"
         }
       ],
       "specs": {
@@ -434,18 +368,11 @@
       "reviews": 12000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Green",
           "storage": "128GB",
           "price": 999,
           "availability": true,
-          "image": "assets/products/phones/xiaomi/xiaomi-15/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 1099,
-          "availability": true,
-          "image": "assets/products/phones/xiaomi/xiaomi-15/blue.png"
+          "image": "assets/products/phones/xiaomi/xiaomi-15/green.png"
         }
       ],
       "specs": {
@@ -467,51 +394,18 @@
       "reviews": 12000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Purple",
           "storage": "128GB",
           "price": 399,
           "availability": true,
-          "image": "assets/products/phones/xiaomi/redmi-note-14-pro/black.png"
+          "image": "assets/products/phones/xiaomi/redmi-note-14-pro/purple.png"
         },
         {
-          "color": "Blue",
+          "color": "Red",
           "storage": "256GB",
           "price": 499,
           "availability": true,
-          "image": "assets/products/phones/xiaomi/redmi-note-14-pro/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "poco-f7-pro",
-      "brand": "Xiaomi",
-      "category": "phones",
-      "name": "POCO F7 Pro",
-      "description": "POCO F7 Pro flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 449,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 449,
-          "availability": true,
-          "image": "assets/products/phones/xiaomi/poco-f7-pro/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 549,
-          "availability": true,
-          "image": "assets/products/phones/xiaomi/poco-f7-pro/blue.png"
+          "image": "assets/products/phones/xiaomi/redmi-note-14-pro/red.png"
         }
       ],
       "specs": {
@@ -533,150 +427,11 @@
       "reviews": 12000,
       "variants": [
         {
-          "color": "Black",
+          "color": "Purple",
           "storage": "128GB",
           "price": 999,
           "availability": true,
-          "image": "assets/products/phones/xiaomi/xiaomi-mix-flip/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 1099,
-          "availability": true,
-          "image": "assets/products/phones/xiaomi/xiaomi-mix-flip/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "pixel-10-pro-xl",
-      "brand": "Google",
-      "category": "phones",
-      "name": "Pixel 10 Pro XL",
-      "description": "Pixel 10 Pro XL flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 1199,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 1199,
-          "availability": true,
-          "image": "assets/products/phones/google/pixel-10-pro-xl/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 1299,
-          "availability": true,
-          "image": "assets/products/phones/google/pixel-10-pro-xl/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "pixel-10-pro",
-      "brand": "Google",
-      "category": "phones",
-      "name": "Pixel 10 Pro",
-      "description": "Pixel 10 Pro flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 1099,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 1099,
-          "availability": true,
-          "image": "assets/products/phones/google/pixel-10-pro/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 1199,
-          "availability": true,
-          "image": "assets/products/phones/google/pixel-10-pro/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "pixel-10",
-      "brand": "Google",
-      "category": "phones",
-      "name": "Pixel 10",
-      "description": "Pixel 10 flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 899,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 899,
-          "availability": true,
-          "image": "assets/products/phones/google/pixel-10/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 999,
-          "availability": true,
-          "image": "assets/products/phones/google/pixel-10/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "pixel-fold-2",
-      "brand": "Google",
-      "category": "phones",
-      "name": "Pixel Fold 2",
-      "description": "Pixel Fold 2 flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 1799,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 1799,
-          "availability": true,
-          "image": "assets/products/phones/google/pixel-fold-2/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 1899,
-          "availability": true,
-          "image": "assets/products/phones/google/pixel-fold-2/blue.png"
+          "image": "assets/products/phones/xiaomi/xiaomi-mix-flip/purple.png"
         }
       ],
       "specs": {
@@ -705,44 +460,11 @@
           "image": "assets/products/phones/nothing/nothing-phone-3/black.png"
         },
         {
-          "color": "Blue",
+          "color": "White",
           "storage": "256GB",
           "price": 799,
           "availability": true,
-          "image": "assets/products/phones/nothing/nothing-phone-3/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "nothing-phone-3a",
-      "brand": "Nothing",
-      "category": "phones",
-      "name": "Nothing Phone 3a",
-      "description": "Nothing Phone 3a flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 399,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 399,
-          "availability": true,
-          "image": "assets/products/phones/nothing/nothing-phone-3a/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 499,
-          "availability": true,
-          "image": "assets/products/phones/nothing/nothing-phone-3a/blue.png"
+          "image": "assets/products/phones/nothing/nothing-phone-3/white.png"
         }
       ],
       "specs": {
@@ -771,11 +493,11 @@
           "image": "assets/products/phones/nothing/nothing-phone-2/black.png"
         },
         {
-          "color": "Blue",
+          "color": "White",
           "storage": "256GB",
           "price": 699,
           "availability": true,
-          "image": "assets/products/phones/nothing/nothing-phone-2/blue.png"
+          "image": "assets/products/phones/nothing/nothing-phone-2/white.png"
         }
       ],
       "specs": {
@@ -804,44 +526,11 @@
           "image": "assets/products/phones/tcl/tcl-60-ultra/black.png"
         },
         {
-          "color": "Blue",
+          "color": "White",
           "storage": "256GB",
           "price": 599,
           "availability": true,
-          "image": "assets/products/phones/tcl/tcl-60-ultra/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "tcl-60-5g",
-      "brand": "TCL",
-      "category": "phones",
-      "name": "TCL 60 5G",
-      "description": "TCL 60 5G flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 399,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 399,
-          "availability": true,
-          "image": "assets/products/phones/tcl/tcl-60-5g/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 499,
-          "availability": true,
-          "image": "assets/products/phones/tcl/tcl-60-5g/blue.png"
+          "image": "assets/products/phones/tcl/tcl-60-ultra/white.png"
         }
       ],
       "specs": {
@@ -870,77 +559,11 @@
           "image": "assets/products/phones/tcl/tcl-nxtpaper-pro/black.png"
         },
         {
-          "color": "Blue",
+          "color": "Gold",
           "storage": "256GB",
           "price": 549,
           "availability": true,
-          "image": "assets/products/phones/tcl/tcl-nxtpaper-pro/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "honor-magic7-pro",
-      "brand": "Honor",
-      "category": "phones",
-      "name": "Honor Magic7 Pro",
-      "description": "Honor Magic7 Pro flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 999,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 999,
-          "availability": true,
-          "image": "assets/products/phones/honor/honor-magic7-pro/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 1099,
-          "availability": true,
-          "image": "assets/products/phones/honor/honor-magic7-pro/blue.png"
-        }
-      ],
-      "specs": {
-        "display": "OLED 120Hz",
-        "chip": "Latest Gen Processor",
-        "battery": "4500mAh",
-        "camera": "Triple Camera System"
-      }
-    },
-    {
-      "id": "honor-200-pro",
-      "brand": "Honor",
-      "category": "phones",
-      "name": "Honor 200 Pro",
-      "description": "Honor 200 Pro flagship smartphone with premium performance and advanced camera system.",
-      "priceFrom": 699,
-      "currency": "EUR",
-      "rating": 4.5,
-      "reviews": 12000,
-      "variants": [
-        {
-          "color": "Black",
-          "storage": "128GB",
-          "price": 699,
-          "availability": true,
-          "image": "assets/products/phones/honor/honor-200-pro/black.png"
-        },
-        {
-          "color": "Blue",
-          "storage": "256GB",
-          "price": 799,
-          "availability": true,
-          "image": "assets/products/phones/honor/honor-200-pro/blue.png"
+          "image": "assets/products/phones/tcl/tcl-nxtpaper-pro/gold.png"
         }
       ],
       "specs": {
@@ -1512,29 +1135,48 @@
       }
     },
     {
-      "id": "dji-mavic-4-pro",
+      "id": "dji-neo",
       "brand": "DJI",
       "category": "drones",
-      "name": "DJI Mavic 4 Pro",
-      "description": "DJI Mavic 4 Pro professional drone for cinematic aerial capture.",
+      "name": "DJI Neo",
+      "description": "DJI Neo professional drone for cinematic aerial capture.",
       "priceFrom": 1999,
       "currency": "EUR",
       "rating": 4.8,
       "reviews": 15000,
       "variants": [
         {
-          "color": "Gray",
+          "color": "White",
           "storage": "N/A",
           "price": 1999,
           "availability": true,
-          "image": "assets/products/drones/dji/dji-mavic-4-pro/gray.png"
-        },
+          "image": "assets/products/drones/dji/dji-neo/white.png"
+        }
+      ],
+      "specs": {
+        "display": "Controller App",
+        "chip": "Flight AI Processor",
+        "battery": "45 min flight",
+        "camera": "4K stabilized camera"
+      }
+    },
+    {
+      "id": "dji-air-4",
+      "brand": "DJI",
+      "category": "drones",
+      "name": "DJI Air 4",
+      "description": "DJI Air 4 professional drone for cinematic aerial capture.",
+      "priceFrom": 1999,
+      "currency": "EUR",
+      "rating": 4.8,
+      "reviews": 15000,
+      "variants": [
         {
-          "color": "Black",
+          "color": "White",
           "storage": "N/A",
-          "price": 2049,
+          "price": 1999,
           "availability": true,
-          "image": "assets/products/drones/dji/dji-mavic-4-pro/black.png"
+          "image": "assets/products/drones/dji/dji-neo/white.png"
         }
       ],
       "specs": {
@@ -1561,46 +1203,6 @@
           "price": 999,
           "availability": true,
           "image": "assets/products/drones/dji/dji-mini-5-pro/gray.png"
-        },
-        {
-          "color": "Black",
-          "storage": "N/A",
-          "price": 1049,
-          "availability": true,
-          "image": "assets/products/drones/dji/dji-mini-5-pro/black.png"
-        }
-      ],
-      "specs": {
-        "display": "Controller App",
-        "chip": "Flight AI Processor",
-        "battery": "45 min flight",
-        "camera": "4K stabilized camera"
-      }
-    },
-    {
-      "id": "dji-avata-3",
-      "brand": "DJI",
-      "category": "drones",
-      "name": "DJI Avata 3",
-      "description": "DJI Avata 3 professional drone for cinematic aerial capture.",
-      "priceFrom": 1199,
-      "currency": "EUR",
-      "rating": 4.8,
-      "reviews": 15000,
-      "variants": [
-        {
-          "color": "Gray",
-          "storage": "N/A",
-          "price": 1199,
-          "availability": true,
-          "image": "assets/products/drones/dji/dji-avata-3/gray.png"
-        },
-        {
-          "color": "Black",
-          "storage": "N/A",
-          "price": 1249,
-          "availability": true,
-          "image": "assets/products/drones/dji/dji-avata-3/black.png"
         }
       ],
       "specs": {
